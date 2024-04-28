@@ -1,6 +1,6 @@
 {
-  "name": "todo-list",
-  "version": "1.0.0",
+  "name": "wajji01-todo-list",
+  "version": "1.0.1",
   "description": "Todo List having CRUD Create Read Update Delete using node.js and inquirer",
   "main": "index.js",
   "type": "module",
