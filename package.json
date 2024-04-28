@@ -4,6 +4,7 @@
   "description": "Todo List having CRUD Create Read Update Delete using node.js and inquirer",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
